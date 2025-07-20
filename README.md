@@ -22,7 +22,7 @@
 
 ## دسترسی به پروژه
 
-این پروژه از طریق **GitHub Pages** قابل دسترسی است. شما می‌توانید نسخه زنده آن را از طریق لینک زیر مشاهده کنید:
+شما می‌توانید نسخه آنلاین این پروژه را در لینک زیر مشاهده کنید:
 
 **[https://your-username.github.io/Text-editing-instruction-via-ai/](https://www.google.com/search?q=https://your-username.github.io/Text-editing-instruction-via-ai/)**
 
@@ -30,6 +30,6 @@
 
 ## ارتباط با من
 
-برای اطلاعات بیشتر یا هرگونه سوال، می‌توانید از طریق گیت‌هاب با من در تماس باشید.
+برای اطلاعات بیشتر یا هرگونه سوال می‌توانید از طریق [ارتباط با من](https://linktr.ee/hamed.shabanzadeh) در تماس باشید.
 
 -----
