@@ -24,7 +24,7 @@
 
 شما می‌توانید نسخه آنلاین این پروژه را در لینک زیر مشاهده کنید:
 
-**[https://hamedshabanzadeh.github.io/Text-editing-instruction-via-ai]
+https://hamedshabanzadeh.github.io/Text-editing-instruction-via-ai
 
 -----
 
